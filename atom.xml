@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dereklai.github.com/atom.xml" rel="self"/>
-  <link href="http://dereklai.github.com/"/>
-  <updated>2012-05-21T00:02:39+08:00</updated>
-  <id>http://dereklai.github.com/</id>
+  <link href="http://lailab.github.com/atom.xml" rel="self"/>
+  <link href="http://lailab.github.com/"/>
+  <updated>2012-05-21T00:36:07+08:00</updated>
+  <id>http://lailab.github.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[started]]></title>
-    <link href="http://dereklai.github.com/blog/2012/05/21/started/"/>
+    <link href="http://lailab.github.com/blog/2012/05/21/started/"/>
     <updated>2012-05-21T00:02:00+08:00</updated>
-    <id>http://dereklai.github.com/blog/2012/05/21/started</id>
+    <id>http://lailab.github.com/blog/2012/05/21/started</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
