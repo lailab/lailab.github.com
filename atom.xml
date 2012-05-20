@@ -4,7 +4,7 @@
   <title><![CDATA[Ninja at Lailab]]></title>
   <link href="http://lailab.github.com/atom.xml" rel="self"/>
   <link href="http://lailab.github.com/"/>
-  <updated>2012-05-21T02:01:44+08:00</updated>
+  <updated>2012-05-21T02:10:39+08:00</updated>
   <id>http://lailab.github.com/</id>
   <author>
     <name><![CDATA[cclua]]></name>
@@ -26,13 +26,13 @@
 <br>
 
 
-<p>由於<strong>「組織」</strong>的安排，我必須<strong> 即 刻 </strong>重拾<em>撰碼</em>的專業，<strong>以身作則</strong>，帶領一群高手投入 <em>HTML5 + CSS3 + Javascript</em> 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。</p>
+<p>由於<strong>「組織」</strong>的安排，我必須<strong> 即 刻 </strong>重拾<em> 撰 碼 </em>的專業，<strong>以身作則</strong>，帶領一群高手投入 <em>HTML5 + CSS3 + Javascript</em> 的開發環境，在短期內以最酷炫的互動界面技術搞定一個創新工具平台的開發。</p>
 
-<p>最困難的事是全體高手必須以「砍掉重練」的心情，拋棄原先滿身的<del>其它無用</del>功夫，轉換腦袋，在一個月內以最高效率從零開始進行精練忍術，務求迅速練成真正<del>能出國比賽</del>的 <strong>Javascript Ninja</strong>。</p>
+<p>最困難的事是全體高手必須以「砍掉重練」的心情，拋棄原先滿身<del>其它無用</del>的功夫，轉換腦袋，在一個月內以最高效率從零開始進行精練忍術，務求迅速練成真正<del>能出國比賽</del>的 <strong>Javascript Ninja</strong>。</p>
 
-<p>我已經多年沒親自下山搞 Coding，很多江湖規矩恐怕都已大不相同。憑藉<del>老宅男 </del>Senior Hacker 的莫名自信，昨天<strong>硬著頭皮</strong>混進 <a href="http://jsdc.tw/2012/Sessions">JSDC2012.TW</a>，不管聽懂多少，當場靠著 Google 大神的協練，瞬間強灌了好幾年功力的基本功。</p>
+<p>我已經多年沒親自下山搞 Coding，很多江湖規矩恐怕都已大不相同。憑藉一個<del>中年老宅男 </del>Senior Hacker 的莫名自信，昨天<strong>硬著頭皮</strong>混進 <a href="http://jsdc.tw/2012/Sessions">JSDC2012.TW</a>，不管聽懂多少，當場靠著 Google 大神不斷的協練，瞬間強灌了好幾年功力。</p>
 
-<p>回來稍作整理，發現 jQuery、Node.js、YUI、CSS 3/3D、CoffeeScript、Require.js、Backbone.js、Common.js、AMD、Ajax、JSON、YAML、jsdoc、ObfuscateJS、Canvas、WebGL、Gestures、MVC/MVP 架構&#8230;以及一大堆 js frameworks、幾十個 game engines，都要充分認識，且把選定的各種技術架構玩到<strong>反射級</strong>的熟悉，否則難以成事，&#8230;這，恐怕需要一整個月不眠不休的勤練吧！</p>
+<p>回來稍作整理，發現 jQuery、Node.js、YUI、CSS 3/3D、CoffeeScript、Require.js、Backbone.js、Common.js、AMD、Ajax、JSON、YAML、jsdoc、ObfuscateJS、Canvas、WebGL、Gestures、MVC/MVP 架構&#8230;以及一大堆 js frameworks、幾十個 js game engines，都要充分認識，並且把選定的各種技術、概念、架構都玩到<strong>反射級</strong>的熟悉程度，否則肯定難以成事，不過，這&#8230;恐怕需要一整個月不眠不休的勤練吧！</p>
 
 <p>工具與環境部分，還要熟悉不同 Browser 的差異，至少 Chrome、Safari、Firefox、IE、Opera 五大門派都要精通，Webkit、Gecko、V8、Tamarin、SpiderMonkey、SquirrelFish&#8230;都要認識，還有 Javascript 控制台、Debugger、Profiler、Python、Ruby&#8230; 要有基本常識，還要認識 Javascript 江湖的大師們<em> Douglas Crockford、Nicholas Zakas、John Resig、Brendan Eich、Peter-Paul Koch、&#8230;</em>以及他們的偉大作品&#8230;</p>
 
