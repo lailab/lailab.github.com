@@ -1,26 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Ninjas at Lailab]]></title>
+  <title><![CDATA[Ninja at Lailab]]></title>
   <link href="http://lailab.github.com/atom.xml" rel="self"/>
   <link href="http://lailab.github.com/"/>
-  <updated>2012-05-21T01:52:35+08:00</updated>
+  <updated>2012-05-21T02:01:44+08:00</updated>
   <id>http://lailab.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[cclua]]></name>
+    <email><![CDATA[cclua@lailab.net]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[started]]></title>
-    <link href="http://lailab.github.com/blog/2012/05/21/started/"/>
-    <updated>2012-05-21T00:02:00+08:00</updated>
-    <id>http://lailab.github.com/blog/2012/05/21/started</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[砍掉重練！開始學忍術啦！]]></title>
