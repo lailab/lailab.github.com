@@ -4,7 +4,7 @@
   <title><![CDATA[Ninpou Academy 忍術學園]]></title>
   <link href="http://lailab.github.com/atom.xml" rel="self"/>
   <link href="http://lailab.github.com/"/>
-  <updated>2012-05-21T11:22:26+08:00</updated>
+  <updated>2012-05-21T12:58:32+08:00</updated>
   <id>http://lailab.github.com/</id>
   <author>
     <name><![CDATA[cclua]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[初試Impact Game Engine]]></title>
+    <link href="http://lailab.github.com/blog/2012/05/21/impact/"/>
+    <updated>2012-05-21T12:56:00+08:00</updated>
+    <id>http://lailab.github.com/blog/2012/05/21/impact</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[砍掉重練！開始學忍術啦！]]></title>
