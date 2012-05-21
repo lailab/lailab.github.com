@@ -4,7 +4,7 @@
   <title><![CDATA[Category: js | Ninpou Academy 忍術學園]]></title>
   <link href="http://lailab.github.com/blog/categories/js/atom.xml" rel="self"/>
   <link href="http://lailab.github.com/"/>
-  <updated>2012-05-21T13:00:54+08:00</updated>
+  <updated>2012-05-21T13:11:50+08:00</updated>
   <id>http://lailab.github.com/</id>
   <author>
     <name><![CDATA[cclua]]></name>
@@ -18,7 +18,7 @@
     <link href="http://lailab.github.com/blog/2012/05/21/impact/"/>
     <updated>2012-05-21T12:56:00+08:00</updated>
     <id>http://lailab.github.com/blog/2012/05/21/impact</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p>這本 Jesse Freeman 撰寫，由 O'REILLY 出版的 <a href="http://www.amazon.com/Introducing-HTML5-Development-Jesse-Freeman/dp/1449315178">Introducing HTML5 Game Development</a> 是基於 Impact 遊戲引擎寫的開發攻略，似乎可以當成初探 HTML5 互動介面的引導自學教材。</p>
 ]]></content>
   </entry>
   
